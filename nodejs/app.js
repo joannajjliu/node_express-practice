@@ -2,13 +2,10 @@
 //      require is local to modules (passed as a parameter in IIFE (module wrapper function))
 // const catches errors at compile time, than at run time
 
-
 // Node modules:
 const path = require('path');
 const os = require('os');
 const fs = require('fs');
-
-
 
 // function sayHello(name) {
 //     console.log("Hello " + name);
