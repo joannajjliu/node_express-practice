@@ -1,6 +1,15 @@
 # mern-practice
 Practice folders using node, and express
 
+## Folder: calculatorjs:
+From Angela Yu's Complete 2020 Web Development Bootcamp
+#### How to use:
+- Navigate to "calculatejs" folder, then run "nodemon calculator.js" in terminal
+    - Opens the index.html file in localhost:3000
+    - Enter numbers, then "Calculate" to calculate their sum
+#### Contents: 
+- "calculator.js" contains 'get' (shows "index.html" page contents) and 'post' (process user-submitted values and calculate) actions
+
 ## Folder: expressjs:
 From Programming with Mosh, building RESTful APIs, using Express (and Node)
 #### Contents: 
