@@ -2,7 +2,7 @@
 Practice folders using node, and express
 
 ## Folder: calculatorjs:
-From Angela Yu's Complete 2020 Web Development Bootcamp
+From Angela Yu's Complete 2020 Web Development Bootcamp, Section "Express.js with Node.js"
 #### How to use:
 - Navigate to "calculatejs" folder, then run "nodemon calculator.js" in terminal
     - Opens the index.html file in localhost:3000
