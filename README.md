@@ -1,4 +1,4 @@
-# mern-practice
+# node-express-practice
 Practice folders using node, and express
 
 ## Folder: calculatorjs:
